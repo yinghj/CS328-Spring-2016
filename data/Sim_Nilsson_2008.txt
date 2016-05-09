@@ -1,0 +1,14 @@
+Category structure with the 12 unique exemplars and their presentation frequency in each category
+E C1 C2 C3 C4 FreqA FreqB
+E1 0 0 0 0 0 14
+E2 0 0 0 1 0 6
+E3 0 0 1 0 0 1
+E4 0 1 0 0 0 1
+E5 1 0 0 0 5 1
+E6 0 1 1 0 1 1
+E7 1 0 0 1 1 1
+E8 0 1 1 1 6 0
+E9 1 0 1 1 1 0
+E10 1 1 0 1 1 0
+E11 1 1 1 0 1 5
+E12 1 1 1 1 14 0
