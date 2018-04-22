@@ -1,4 +1,4 @@
-# Modelling the Conjunction Fallacy
+# Modeling the Conjunction Fallacy
 ## Comuputational Model of Cognition Final Project, Fall 2016
 
 ### Rationale: Have you ever heard of the Linda Problem?
