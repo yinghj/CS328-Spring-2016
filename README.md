@@ -1,5 +1,5 @@
-# Computational Model for the Conjunction Fallacy
-## Final Project for CS328-Spring-2016 (Comuputational Model of Cognition)
+# Modelling the Conjunction Fallacy
+## Comuputational Model of Cognition Final Project, Fall 2016
 
 ### Rationale: Have you ever heard of the Linda Problem?
 - Linda is 31 years old, single, outspoken, and very bright. She majored in philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
